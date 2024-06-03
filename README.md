@@ -113,6 +113,12 @@ I am a passionate and dedicated Front-end Developer with extensive experience in
 
 ---
 
+<div>
+<a href="https://github.com/GuilhermeFontanella">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFontanella&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFontanella&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ## 🔗 Connect with Me
 
 - [E-mail](gui.jmf@gmail.com)
